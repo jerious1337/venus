@@ -1,4 +1,4 @@
-# Vênus Code Editor
+# Venus Code Editor
 ## 🛠 Status
 Under early development.
 
